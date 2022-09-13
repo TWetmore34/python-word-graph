@@ -1,0 +1,15 @@
+Notes on brand statements
+
+Be sure to add title – either fullstack dev or web dev for me I think. I for sure don’t want to use front end that’s not what im about
+
+List of skills here – check the syllabus for all the tech you want to list , but emphasize JavaScript, CSS, React.js, node, and mysql, and a bit of python
+
+What do you plan to work towards? Developing applications to bring joy and convenience to consumers everywhere. 
+
+What do you bring to an employer? Attention to detail, an analytic mind, writing and communication background, and server side development
+
+Mention enrollment in tech program, but keep it brief. Thatll be listend in the edu section anyways
+
+Lets use first person. It’s a little more active on the verbiage, and it should let me be very explicit about what I can do
+
+I am a server-side developer leveraging a Bachelor of Arts in English. I received my fullstack certificate from Georgia Tech, where I focused on Agile development in JavaScript, HTML5, CSS, React.js, and Node. Driven by a desire to develop apps that bring the perfect blend of joy and convenience, I love developing new products. As a result, I bring that love into everything I produce. My strengths include creativity, teamwork, and sticking with projects all the way from ideation to execution.
